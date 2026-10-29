@@ -53,7 +53,7 @@ int main()
 
         if (YouContinue == "N" || YouContinue == "n")
         {
-            cout << "Machine Shutting Downs.\n";
+            cout << "Machine Shutting Down.\n";
             break;
         }
 
