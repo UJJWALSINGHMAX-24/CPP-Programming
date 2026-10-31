@@ -103,5 +103,9 @@ int main()
         cout << "Exiting without showing history. Thank you!\n";
     }
 
+    std::cout << "Bahane ke liye koi key dabayein...";
+    std::cin.ignore();
+    std::cin.get();
+
     return 0;
 }
