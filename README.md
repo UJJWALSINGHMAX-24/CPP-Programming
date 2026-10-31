@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-# C-Programming
-A Collection of My C Programs , Logic-Building Exercises, and Mini-Projects.
-=======
-# CPP-Programming
-A Collection of My C++ Programs , Logic-Building Exercises, and Mini-Projects.
->>>>>>> d12fb646158c76bd267f93d27806ec71c3969869
+CPP Daily Task CodingWelcome to my daily C and C++ programming repository! This space is dedicated to my consistent coding journey, where I practice fundamental concepts, build terminal-based console applications, and upload new logic-building scripts every day.   📂 What's Inside?Daily Practice Tasks: Regular practice scripts covering basic to intermediate programming concepts.Terminal-Based Mini Projects: Interactive console programs (such as Smart Calculators, Voting Machines, and utility tools) built using C and C++.   Logic Building: Hands-on practice with loops, arrays, functions, pointers, and data structures.Continuous Updates: New code files and features are added daily to maintain consistency and sharpen problem-solving skills.   💻 Tech Stack & ToolsLanguages: C, C++Editor: Visual Studio Code (VS Code) on Windows 11Compiler: GCC (via MSYS2 UCRT64 environment)
